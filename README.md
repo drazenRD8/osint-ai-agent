@@ -1,6 +1,4 @@
-# osint-ai-agent
-Python AI agent that combines Gemini with OSINT tools (IP lookup, EXIF, etc.)
-# OSINT AI Agent
+
 
 Python AI agent koji kombinuje **Gemini** model sa OSINT alatima za brzu analizu.
 
@@ -16,6 +14,9 @@ Agent prima komande na srpskom jeziku i:
 
 ## Instalacija
 
+
+git clone https://github.com/tvoj-username/osint-ai-agent
+cd osint-ai-agent
 pip install -r requirements.txt
 
 ## Pokretanje
