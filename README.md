@@ -15,7 +15,7 @@ Agent prima komande na srpskom jeziku i:
 ## Instalacija
 
 
-git clone https://github.com/tvoj-username/osint-ai-agent
+git clone https://github.com/drazenDR8/osint-ai-agent
 cd osint-ai-agent
 pip install -r requirements.txt
 
